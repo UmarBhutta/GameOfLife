@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -7,6 +8,8 @@
 /build
 /captures
 
+=======
+>>>>>>> e15caee5e8925350dc6e016c9cc0bf4b2bc13629
 # Built application files
 *.apk
 *.ap_
@@ -42,7 +45,15 @@ proguard/
 captures/
 
 # Intellij
+<<<<<<< HEAD
 .idea/workspace.xml
 
 # Keystore files
 *.jks
+=======
+*.iml
+.idea/workspace.xml
+
+# Keystore files
+*.jks
+>>>>>>> e15caee5e8925350dc6e016c9cc0bf4b2bc13629
