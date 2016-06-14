@@ -49,6 +49,7 @@ public class MainActivityTest {
 //        gameOfLife.getApplicationComponent().inject(mainActivity);
 //
 //    }
+
     @Test
     public void testStart(){
 

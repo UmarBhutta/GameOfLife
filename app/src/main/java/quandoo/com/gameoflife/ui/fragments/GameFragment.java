@@ -143,7 +143,6 @@ public class GameFragment extends BaseFragment {
 
 
         gridView.setGridConfig(presenter.getGridConfig());
-        gridView.animate().setStartDelay(1000).alpha(1).start();
 
 
     }

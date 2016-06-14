@@ -95,13 +95,13 @@ public class GameFragmentPresenterImp implements
         gridConfig = new GridModel();
         gridConfig.setWidth(w);
         gridConfig.setHeight(h);
-        gridConfig.setBackgroundColor("#00000000");
+        gridConfig.setBackgroundColor("#3F51B5");
         gridConfig.setColumnCellCount(cellCount);
         gridConfig.setRowCellCount(cellCount);
         gridConfig.setCellCount(gridConfig.getColumnCellCount() * gridConfig.getRowCellCount());
-        gridConfig.setDefaultCellColor("#303030");
-        gridConfig.setNewBornCellColor("#ffffff");
-        gridConfig.setDefaultLineColor("#505050");
+        gridConfig.setDefaultCellColor("#303F9F");
+        gridConfig.setNewBornCellColor("#FF4081");
+        gridConfig.setDefaultLineColor("#FFFFFF");
         gridConfig.setCellWidth(w / cellCount);
         gridConfig.setCellHeight(w / cellCount);
 
